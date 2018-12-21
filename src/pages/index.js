@@ -17,6 +17,14 @@ export default ({ data }) => {
     <Layout>
     <h1 className="f-title">🦄 valuations.wtf</h1>
     <p className="measure f-copy f4">This site tracks the ever-changing valuations of some of the hottest startups in the world.</p>
+    <div className="pt2 pb4">
+      <h2>Number of Startups Worth $1B+</h2>
+      <p className="mb"><span className="fw7">2015</span> 🦄🦄🦄🦄<span className="f4 b">82</span></p>
+      <p className="mb"><span className="fw7">2016</span> 🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄<span className="f4 b">208</span></p>
+      <p className="mb"><span className="fw7">2017</span> 🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄<span className="f4 b">224</span></p>
+      <p className="mb"><span className="fw7">2018</span> 🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄<span className="f4 b">266</span></p>
+
+    </div>
     <div>
     {companies.map((company) => (
       <div>
@@ -31,6 +39,9 @@ export default ({ data }) => {
       </div>
       )
     )}  
+  </div>
+  <div>
+  <p className="pt3 black-60 pl2">Made with ❤️ by <a className="link dim" href="https://twitter.com/@ianrtracey">@ianrtracey</a></p>
   </div>
   </Layout>
   )
