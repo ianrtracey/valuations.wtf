@@ -1,8 +1,11 @@
 # SPCX valuation report: career-equity decision
 
 **As of September 20, 2026**
+
 **Security:** Space Exploration Technologies Corp. Class A common stock (Nasdaq: SPCX)
+
 **Decision context:** engineer considering a Cursor offer with approximately $8.5 million of face-value SPCX RSUs over four years
+
 **Reference price:** $152.71, the September 18 close
 
 This is an analyst synthesis for decision support, not individualized investment, legal, or tax advice. Dollar amounts are USD. “Market cap” values use the 13.573 billion pro forma basic share count explained below; “EV” means enterprise value. Scenario prices, probabilities, and expected values are this report’s estimates unless explicitly attributed.
