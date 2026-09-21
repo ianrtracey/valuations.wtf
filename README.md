@@ -3,6 +3,8 @@ Updated to Gatsby 2.0.
 
 A simple integration using [gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) and [Tachyons](https://github.com/tachyons-css/tachyons/) for CSS
 
+[SPCX valuation report for career-equity decision-making](notes/SPCX_valuation_report_2026-09-20.md)
+
 Make sure you have the Gatsby CLI installed. You can do that by running
 `npm install --global gatsby-cli`
 
